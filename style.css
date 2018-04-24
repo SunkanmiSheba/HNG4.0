@@ -1,0 +1,24 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+#content{
+	position: relative;
+}
+#date{
+	display: flex;
+	justify-content:center;
+	align-items:flex-start;
+	color: blue;
+	font-family: Arial;
+	font-weight: bolder;
+}
+#hng{
+	display: flex;
+	justify-content: center;
+	color: rgb(228, 49, 49);
+	font-family: Arial;
+	font-weight: bolder;
+}
